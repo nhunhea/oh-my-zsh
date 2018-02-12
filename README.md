@@ -30,11 +30,12 @@ Lalu pada baris
 ```
 ZSH_THEME="nama tema"
 ```
+Ganti nama tema sesua yang disukai kemudian simpan.
 Misal 
 ```
 ZSH_THEME="bira"
 ```
-Simpan, lalu 
+Lalu load zsh dengan cara
 ```
 source .zshrc
 ```
